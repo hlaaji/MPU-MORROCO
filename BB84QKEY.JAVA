@@ -1,6 +1,6 @@
 /*
 BB84 protocol implementation 
- @author Hassan LAAJI- Ph.D researcher at Mahammed First university - Morocco
+ @author Hassan LAAJI- Ph.D researcher at Mohammed First university - Morocco
 */
 package bb84qkey;
 
